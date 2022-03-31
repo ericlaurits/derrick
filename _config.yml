@@ -1,5 +1,5 @@
 title: Seek the Joy
-logo:  # you can add own logo.
+logo:  '/assets/img/profile.png' # you can add own logo.
 description: teaching, teacher education, and why it matters
 baseurl: "/derrick" # the subpath of your site, e.g. /blog
 url: "https://ericlaurits.github.io/derrick/" # the base hostname & protocol for your site, e.g. http://example.com
