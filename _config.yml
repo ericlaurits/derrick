@@ -1,6 +1,6 @@
-title: Seek the JOy
+title: Seek the Joy
 logo:  # you can add own logo.
-description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
+description: teaching, teacher education, and why it matters
 baseurl: "/derrick" # the subpath of your site, e.g. /blog
 url: "https://ericlaurits.github.io/derrick/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -9,8 +9,8 @@ url: "https://ericlaurits.github.io/derrick/" # the base hostname & protocol for
 author:
   name: eric laurits
   image: '/assets/img/profile.png'
-  job: teacher/teacher educator
-  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
+  job: 
+  bio: 
   email: eric@ericlaurits.com
 
 
