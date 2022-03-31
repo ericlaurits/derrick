@@ -2,7 +2,7 @@
 layout: post
 title: Vital > Inclusive
 date: 2022-03-30
-image: BlackWhiteSimpleQuoteInstagramPost.png
+image: '/assets/img/BlackWhiteSimpleQuoteInstagramPost.png'
 tags: [teaching, elementary]
 ---
 As we build our classroom communities, one word keeps ringing in our ears. Inclusive. The Inclusive Classroom. It's probably a book or a paper or an article on some blog that has a billion and a half views. While I'm all for inclusiveness, I'm just not for it in an elementary (or any, really) classroom.
@@ -17,7 +17,7 @@ We tell children "it matters that you're here." Of course it matters that you're
 
 I have been working to shift my mindset away from making students feel included or welcome. That's a base assumption that anyone who sets foot into a building that I am in gets, it's not up for discussion. No matter what. The students in my classroom, however, are vital. Most importantly, **they know that they are vital.**
 
-![](BlackWhiteSimpleQuoteInstagramPost.png)
+![](/assets/img/BlackWhiteSimpleQuoteInstagramPost.png)
 
 I never sought out to make sure that every student felt included in my classroom because that was never good enough for me. The way to build a formidable **and** inclusive community within the confines of our classrooms is to make sure that every student knows without a doubt that they are vital to our community. Without them, our community would cease to function in the meaningful way that it currently does. Not only does this embolden students to embrace their own uniqueness and identity and cultural upbringings, but also instills in them a sense of urgency and pride knowing that they are the reason things are as awesome as they are.
 
