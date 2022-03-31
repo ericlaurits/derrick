@@ -1,31 +1,31 @@
-title: Derrick Wells – Independent Product Designer
+title: Seek the JOy
 logo:  # you can add own logo.
 description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
 baseurl: "/derrick" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ericlaurits.github.io/derrick/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: Derrick Wells
-  image: '/assets/img/01.jpg'
-  job: Independent Product Designer
+  name: eric laurits
+  image: '/assets/img/profile.png'
+  job: teacher/teacher educator
   bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-  email: forexample@website.com
+  email: eric@ericlaurits.com
 
 
 # Contact links
 contact:
   - name: Twitter
-    link: https://twitter.com/
-  - name: Facebook
-    link: https://facebook.com/
+    link: https://twitter.com/ericlaurits
+  - name: LinkedIn
+    link: https://linkedin.com/in/ericlaurits
   - name: Instagram
-    link: https://instagram.com/
+    link: https://instagram.com/ericlaurits
 
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: # add your shortname for Disqus Comment. For example mr-brown
 
 
 # Google Analytics
