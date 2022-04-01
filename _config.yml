@@ -9,9 +9,16 @@ url: "https://ericlaurits.github.io/derrick/" # the base hostname & protocol for
 author:
   name: eric laurits
   image: '/assets/img/profile.png'
-  job: 
-  bio: 
+  job:
+  bio: eacher, teacher educator, and recovering photographer currently in foreign service in Kenya.
   email: eric@ericlaurits.com
+  about-author: Teacher, teacher educator, and recovering photographer currently in foreign service in Kenya. # add description
+  social-twitter: ericlaurits # add your Twitter handle
+  social-facebook: # add your Facebook handle
+  social-instagram: ericlaurits # add your Email address
+  social-github: artemsheludko # add your Github handle
+  social-linkedin: ericlaurits # add your Linkedin handle
+  social-email: eric@ericlaurits.com # add your Email address
 
 
 # Contact links
