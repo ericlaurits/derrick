@@ -6,7 +6,6 @@ image: '/assets/img/IMG_0767.jpg'
 tags: [teaching, assesment]
 ---
 
-# Discussing Data
 Teaching has to be one of the most human professions - responsive yet passionate, caring and simultaneously joyful. Humans were designed to adapt and there aren’t many other crafts that require the fine tuned sense for when and how to adapt that require adaptation to happen so quickly and concretely.
 > I got into teaching because I love crunching numbers and interpreting data.
 
