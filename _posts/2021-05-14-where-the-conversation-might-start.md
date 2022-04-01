@@ -2,7 +2,7 @@
 layout: post
 title: 
 date: 2021-05-14
-image: '/assets/img/_OOT1613.jpg'
+image: '/assets/img/OOT1613.jpg'
 tags: [teaching, elementary]
 ---
 ## Where to begin?
