@@ -5,7 +5,7 @@ date: 2021-05-14
 image: '/assets/img/_OOT1613.jpg'
 tags: [teaching, elementary]
 ---
-# Where The Conversation Might Start
+## Where to begin?
 
 There is a lot of conversation about where the conversation might start.
 
